@@ -27,14 +27,7 @@ We investigate:
 
 ## 📂 Project Structure
 
-├── data/ # Raw and processed Lernnavi data
-├── figures/ # Plots used in the final report
-├── models/ # Trained models and clustering artifacts
-├── src/ # Scripts for feature engineering, training, and evaluation
-├── paper/ # LaTeX source code for the report
-│ └── lernnavi_report.tex
-├── requirements.txt # Python dependencies
-└── README.md
+<pre lang="markdown"><code> ``` ├── data/ # Raw and processed Lernnavi data ├── figures/ # Plots used in the final report ├── models/ # Trained models and clustering artifacts ├── src/ # Scripts for feature engineering, training, and evaluation ├── paper/ # LaTeX source code for the report │ └── lernnavi_report.tex ├── requirements.txt # Python dependencies └── README.md # Project documentation ``` </code></pre>
 
 ## 👩‍🔬 Authors
  Valentine Casalta
