@@ -1,0 +1,80 @@
+[
+  {
+    "dimension": "Effort",
+    "centroid_means": [
+      0.6575775622043992,
+      -0.2429886925368191,
+      2.6570380729818037
+    ],
+    "order_low_to_high": [
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "dimension": "Consistency",
+    "centroid_means": [
+      0.8972085973316649,
+      -0.22550921300621124,
+      2.429801058793827
+    ],
+    "order_low_to_high": [
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "dimension": "Regularity",
+    "centroid_means": [
+      -0.2499347161862949,
+      1.541082334047355,
+      5.254204258671713
+    ],
+    "order_low_to_high": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dimension": "Proactivity",
+    "centroid_means": [
+      2.982584488462847,
+      -0.143506731900807,
+      1.9143754755388325
+    ],
+    "order_low_to_high": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "dimension": "Control",
+    "centroid_means": [
+      1.3320077400231138,
+      -0.18195339772155983,
+      3.288998127781247
+    ],
+    "order_low_to_high": [
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "dimension": "Assessment",
+    "centroid_means": [
+      0.12440433882041939,
+      0.7785592112856374,
+      -0.4811184777370027
+    ],
+    "order_low_to_high": [
+      2,
+      0,
+      1
+    ]
+  }
+]
