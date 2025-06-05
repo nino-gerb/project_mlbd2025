@@ -28,15 +28,13 @@ We investigate:
 ## 📂 Project Structure
 
 ```
-├── data/                  # Raw and processed Lernnavi data
-├── figures/               # Plots used in the final report
-├── models/                # Trained models and clustering artifacts
-├── src/                   # Scripts for feature engineering, training, and evaluation
-├── paper/                 # LaTeX source code for the report
-│   └── lernnavi_report.tex
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+├── m2/                   # Milestone 2: early-stage development or experimentation
+├── m4/                   # Milestone 4: mid-project results and code
+├── m6/                   # Milestone 6: final models, evaluation, and report
+├── .gitignore            # Git configuration to exclude unnecessary files
+└── README.md             # Project documentation
 ```
+
 
 ## 👩‍🔬 Authors
 
