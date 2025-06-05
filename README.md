@@ -1,9 +1,6 @@
 # 🧠 Behavior, Difficulty & Grading: What Drives Retention on Lernnavi?
 
-This repository contains the code, data processing scripts, and LaTeX source for the paper:
-
-> **Behavior, Difficulty & Grading: What Drives Retention on Lernnavi?**  
-> *Submitted to the Educational Data Mining Conference (EDM)*
+This repository contains the code, data processing scripts
 
 ## 📘 Overview
 
