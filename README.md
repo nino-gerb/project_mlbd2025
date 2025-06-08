@@ -28,9 +28,9 @@ We investigate:
 ## 📂 Project Structure
 
 ```
-├── m2/                   # Milestone 2: early-stage development or experimentation
-├── m4/                   # Milestone 4: mid-project results and code
-├── m6/                   # Milestone 6: final models, evaluation, and report
+├── m2/                   # Milestone 2: Individual exploratory analysis
+├── m4/                   # Milestone 4: RQ1 results and code
+├── m6/                   # Milestone 6: Final models, evaluation, and report
 ├── .gitignore            # Git configuration to exclude unnecessary files
 └── README.md             # Project documentation
 ```
